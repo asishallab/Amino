@@ -1,4 +1,7 @@
 # Amino
+
+*([For the English Version click here](https://github.com/asishallab/Amino/blob/master/README_en.md))*
+
 Ein trickreiches und rasantes Legespiel für die ganze Familie
 
 Wir haben Amino entwickelt, ein kurzweiliges strategisches Legespiel in dem
