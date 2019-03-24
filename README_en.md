@@ -8,6 +8,8 @@ Amino has been developed by us during the last six years. We have tested it in o
 
 Click [here](https://github.com/asishallab/Amino/blob/master/Amino_Game_Manual.pdf) for the game manual, including a sample round, and a section on tips and tricks.
 
+Click [here](https://github.com/asishallab/Amino/blob/master/print_amino_yourself.md) for a manual on how to print and assemble a game of Amino yourself.
+
 We would be very happy if Amino catches your eye and gladly would send you a prototype upon request.
 
 As we say in Germany: Good luck in game and in love!
