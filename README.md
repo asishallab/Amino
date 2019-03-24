@@ -23,6 +23,8 @@ Amino auch schon zu zehnt gespielt (Spieldauer 2 Stunden).
 [Hier](https://github.com/asishallab/Amino/blob/master/Amino_Spielanleitung.pdf) findet Ihr die Spielanleitung, inklusive einer Beispiel-Runde, und
 einem Abschnitt über Tips, Tricks, und Raffinessen. 
 
+[Hier](https://github.com/asishallab/Amino/blob/master/print_amino_yourself.md) findet Ihr eine Bastel-Anleitung, solltet Ihr Amino selbst ausdrucken und basteln wollen.
+
 Viel Glück im Spiel und in der Liebe!
 
 Philipp Niederlag und 
