@@ -1,6 +1,6 @@
 # Amino
 
-We have developed Amino, an entertaining strategic tile based game for the whole family. Amino takes players on a journey into the microcosm of ants. 
+We have developed Amino, an entertaining strategic tile based game for the whole family. Amino takes players on a journey into the microcosm of ants. Click [here](https://youtu.be/pW6GrFSFYSU) for a short demonstration video on YouTube.
 
 We were able to have Amino tested by Prof. Markus Wiemker ([media Akademie - University of Stuttgart](https://www.media-hs.de/); [wiemker.org](www.wiemker.org)). His rating was: "Amino is a complex, strategic tile game that is characterized by a high level of replay value, diverse tactical possibilities, good balancing and has integrated of a proven combat system."
 
