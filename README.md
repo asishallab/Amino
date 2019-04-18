@@ -6,7 +6,7 @@ Ein trickreiches und rasantes Legespiel für die ganze Familie
 
 Wir haben Amino entwickelt, ein kurzweiliges strategisches Legespiel in dem
 Mikrokosmos der Ameisen. Gerne würden wir Euch Amino vorstellen. Clickt 
-[hier](https://youtu.be/pW6GrFSFYSU) für ein kurzes zehn-minütiges Video auf 
+[hier](https://youtu.be/A8bVc14q32A) für ein kurzes zehn-minütiges Video auf 
 YouTube.
 
 Wir konnten Amino durch Prof. Markus Wiemker testen lassen ([media Akademie –
