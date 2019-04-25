@@ -11,6 +11,8 @@ YouTube.
 
 [<img src="https://github.com/asishallab/Amino/raw/master/images/AminoOnYouTube.jpg" width="50%" />](https://youtu.be/A8bVc14q32A)
 
+Amino führt ein neues auf Dreiecken basierendes System ein, um ein Labyrinth von Wegen auszulegen. Die dreieckige Form selbst und die sechs verschiedenen Typen von Dreiecken ermöglichen es den Spielern, ein Labyrinth zu bauen, das überraschend dicht und vielfältig ist, und sehr kurvenreiche Pfade hat. Diese Eigenschaften sind nicht erreichbar, wenn zum Beispiel quadratische oder hexagonale Legesteine verwendet werden. Die Methode wurde von Ergebnissen aus der theoretischen Biologie inspiriert.
+
 Wir konnten Amino durch Prof. Markus Wiemker testen lassen ([media Akademie –
 Hochschule Stuttgart](https://www.media-hs.de/); [wiemker.org](http://www.wiemker.org/)). Seine Bewertung war:
 "Amino ist ein komplexes, strategisches Legespiel, das sich durch einen hohen
