@@ -9,6 +9,8 @@ Mikrokosmos der Ameisen. Gerne würden wir Euch Amino vorstellen. Clickt
 [hier](https://youtu.be/A8bVc14q32A) für ein kurzes zehn-minütiges Video auf 
 YouTube.
 
+[<img src="https://github.com/asishallab/Amino/raw/master/images/AminoOnYouTube.jpg" width="50%" />](https://youtu.be/A8bVc14q32A)
+
 Wir konnten Amino durch Prof. Markus Wiemker testen lassen ([media Akademie –
 Hochschule Stuttgart](https://www.media-hs.de/); [wiemker.org](http://www.wiemker.org/)). Seine Bewertung war:
 "Amino ist ein komplexes, strategisches Legespiel, das sich durch einen hohen
