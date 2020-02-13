@@ -27,7 +27,7 @@ bis jetzt keine Obergrenze der Spielerzahl finden. Mit Erweiterung haben wir
 Amino auch schon zu zehnt gespielt (Spieldauer 2 Stunden).
 
 [Hier](https://github.com/asishallab/Amino/blob/master/Amino_Spielanleitung.pdf) findet Ihr die Spielanleitung, inklusive einer Beispiel-Runde, und
-einem Abschnitt über Tips, Tricks, und Raffinessen. 
+einem Abschnitt über Tips, Tricks, und Raffinessen. Wir empfehlen, die Anleitung herunterzuladen, da der PDF-Viewer von GitHub nicht alles korrekt darstellt. 
 
 [Hier](https://github.com/asishallab/Amino/blob/master/print_amino_yourself.md) findet Ihr eine Bastel-Anleitung, solltet Ihr Amino selbst ausdrucken und basteln wollen.
 
