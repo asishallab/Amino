@@ -10,7 +10,7 @@ We were able to have Amino tested by Prof. Markus Wiemker ([media Akademie - Uni
 
 Amino has been developed by us in the last six years. We have tested it in over 300 trial games and with more than 40 players. The game is fun for two players, but also in larger groups of up to six friends. The playing time is short and crisp, depending on the number of players between 15 to 60 minutes. So far we haven't reached a practical upper limit for the number of players. With extensions we have played Amino with up to ten participants (playing time here was just under 2 hours).
 
-Click [here](https://github.com/asishallab/Amino/blob/master/Amino_Game_Manual.pdf) for the game manual, including a sample round, and a section on tips and tricks.
+Click [here](https://github.com/asishallab/Amino/blob/master/Amino_Game_Manual.pdf) for the game manual, including a sample round, and a section on tips and tricks. We recommend to download the game manual, because GitHub's PDF-Viewer has issues displaying it correctly.
 
 Click [here](https://github.com/asishallab/Amino/blob/master/print_amino_yourself.md) for a manual on how to print and assemble a game of Amino yourself.
 
